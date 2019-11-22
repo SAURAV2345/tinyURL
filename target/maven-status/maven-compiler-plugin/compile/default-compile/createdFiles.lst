@@ -1,0 +1,8 @@
+com\tinyurl\DAO\TokensDAO.class
+com\tinyurl\app\startBootApp.class
+com\app\tinyurl\model\Token.class
+com\app\tinyurl\TGS\ServiceFactory.class
+com\tinyurl\app\controller\TinyUrlController.class
+com\app\tinyurl\database\UrlDetails.class
+com\app\tinyurl\TGS\Service.class
+com\app\tinyurl\TGS\TokenGeneratorService.class

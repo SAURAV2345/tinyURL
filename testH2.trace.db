@@ -1,0 +1,6 @@
+2019-11-19 17:05:55 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Table "URLDETAILS" not found; SQL statement:
+INSERT INTO UrlDetails (shortURL, orgURL) VALUES ('Lokesh', 'Gupta'), ('Deja', 'Vu'), ('Caption', 'America') [42102-195]
+2019-11-19 17:11:33 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Table "URLDETAILS" not found; SQL statement:
+INSERT INTO URLDETAILS (shortURL, orgURL) VALUES ('Lokesh', 'Gupta'), ('Deja', 'Vu'), ('Caption', 'America') [42102-195]
